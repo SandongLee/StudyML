@@ -1,2 +1,2 @@
-# StudyML
-Machine Learning Study
+# StudyTensorFlow
+Machine Learning Study using Tensorflow
